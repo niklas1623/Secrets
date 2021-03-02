@@ -1,0 +1,8 @@
+name: Secrets
+version: ${project.version}
+main: de.niklas1623.secrets.Secrets
+api-version: 1.16
+prefix: Secrets
+authors: [ niklas1623 ]
+description: Ein Secretplugin
+website: CultCraft.de
